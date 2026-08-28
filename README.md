@@ -26,5 +26,5 @@ I wanted to start coding before college starts (17 Sept). This is Day 1.
 Adding Expense Tracker logic to this.
 
 ---
-Made by [Your Name] | BTech AIDS 2026-30 | Zeal, Pune# python.cli-calculator-
+Made by [pragati shinde] | BTech AIDS 2026-30 | Zeal, Pune# python.cli-calculator-
 My 1st python project built entirely on phone with pydroid 3 20 days before joining 1st year b tech in aids at zeal college narhe pune 
